@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UIbaru.unity
+    guid: c163937349380ef4c975866ca138ec5d
+  - enabled: 1
+    path: Assets/Scenes/LoadGame.unity
+    guid: fa7c59d99463f0b49a5b43f85254ed01
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: 66592a4855964784fa93eb6f87958c7b
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 12337b9dab1c61849ad5d21fa5d24ef1
+  - enabled: 1
+    path: Assets/Scenes/LoadGame 1.unity
+    guid: 50b85e4c3f2bbc3459ae7a4b698416ff
+  - enabled: 1
+    path: Assets/Scenes/MissionMenu.unity
+    guid: 3414293ece9788e4aa939bb80db789d1
+  - enabled: 1
+    path: Assets/Scenes/Weapon.unity
+    guid: b613a1b6e2bcc5c44829caa75bc1e3bb
+  - enabled: 1
+    path: Assets/Scenes/Ability.unity
+    guid: a109239d1810c84489ca6a4cf33ec07f
+  - enabled: 1
+    path: Assets/Scenes/Achievement.unity
+    guid: 66999690eb364ae4d88fe78ad38b9387
+  - enabled: 1
+    path: Assets/Scenes/Pause.unity
+    guid: cce476599269728438ddc4c0061a2266
+  - enabled: 1
+    path: Assets/Scenes/GameAwal.unity
+    guid: 63d2708a16314a143a253e5a9df612d1
+  - enabled: 1
+    path: Assets/Scenes/InGame.unity
+    guid: 7bfea61958762c84a8af47b360226504
+  - enabled: 1
+    path: Assets/Scenes/Successs.unity
+    guid: 8a0bb01eba7f9ec428eaadf43bf2256c
+  - enabled: 1
+    path: Assets/Scenes/Failed.unity
+    guid: f62c3bbab8a50f243881227c7a98362f
+  m_configObjects: {}
